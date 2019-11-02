@@ -11,7 +11,7 @@ import javax.swing.GroupLayout;
 
 /**
  * Clase del botón Inicio.
- * @author murphy
+ * @author DiegoBergondo
  */
 public class BotonInicio extends JSimpleDialog {
     
